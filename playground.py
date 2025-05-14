@@ -1,5 +1,4 @@
 from agno.agent import Agent
-from agno.models.openai import OpenAIChat
 from agno.models.lmstudio import LMStudio
 from agno.playground import Playground, serve_playground_app, PlaygroundSettings
 from agno.storage.sqlite import SqliteStorage
